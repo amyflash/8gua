@@ -1,0 +1,32 @@
+/* styles.css */
+#container {
+    text-align: center;
+}
+
+#gua-display {
+    margin-top: 20px;
+}
+
+   #suan {
+        width: 100%;
+        height: auto;
+        padding: 20px;
+        font-size: 60px;
+    }
+
+body {
+            font-size: 1.5em; /* 增大字体 */
+            margin: 0;
+            padding: 0 20px;
+        }
+        h2 {
+            font-size: 2em; /* 标题更大一些 */
+        }
+        p {
+            margin: 10px 0;
+        }
+        strong {
+            display: inline-block;
+            width: 6em; /* 确保“类型:, 象曰:, etc.”对齐 */
+            font-size: 60px;
+        }
